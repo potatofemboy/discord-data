@@ -8,7 +8,7 @@
   "blacklist": [],
   "watchlist": [],
   "heartbeat": {
-    "last_seen": "2026-03-05T13:00:58.900964+00:00",
+    "last_seen": "2026-03-05T13:02:00.128991+00:00",
     "clean_exit": false
   },
   "downtime_log": [
@@ -91,14 +91,6 @@
       "duration_seconds": 12284.82,
       "duration_human": "3h 24m 44s",
       "reason": "Swapping Hosting Servers to 24/7 Scripts Bot"
-    },
-    {
-      "id": 11,
-      "server_went_down_approx": "2026-03-05T12:34:26.575801+00:00",
-      "bot_came_back_up": "2026-03-05T12:35:15.917333+00:00",
-      "duration_seconds": 49.34,
-      "duration_human": "49s",
-      "reason": "Not set"
     }
   ],
   "error_log": [

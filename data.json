@@ -8,9 +8,9 @@
   "blacklist": [],
   "watchlist": [],
   "heartbeat": {
-    "last_seen": "2026-03-06T23:50:16.703683+00:00",
+    "last_seen": "2026-03-06T23:51:19.789510+00:00",
     "clean_exit": false,
-    "ping_ms": 120.9
+    "ping_ms": 120.5
   },
   "downtime_log": [
     {
@@ -723,5 +723,43 @@
       "display_name": "Server Save/Load",
       "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png"
     }
+  },
+  "backup_inventory": {
+    "1475935765438398545": [
+      {
+        "thread_name": "backup_1475935765438398545_20260304_115102",
+        "timestamp_str": "2026-03-04 11:51:02 UTC",
+        "timestamp_iso": "2026-03-04T11:51:02",
+        "size_kb": 1979.4,
+        "encrypted": false
+      }
+    ],
+    "1476724976668250308": [
+      {
+        "thread_name": "backup_1476724976668250308_20260304_115103",
+        "timestamp_str": "2026-03-04 11:51:03 UTC",
+        "timestamp_iso": "2026-03-04T11:51:03",
+        "size_kb": 541.1,
+        "encrypted": false
+      }
+    ],
+    "1392463823868530738": [
+      {
+        "thread_name": "backup_1392463823868530738_20260304_115148",
+        "timestamp_str": "2026-03-04 11:51:48 UTC",
+        "timestamp_iso": "2026-03-04T11:51:48",
+        "size_kb": 938.7,
+        "encrypted": false
+      }
+    ],
+    "1460927669721108505": [
+      {
+        "thread_name": "backup_1460927669721108505_20260304_115315",
+        "timestamp_str": "2026-03-04 11:53:15 UTC",
+        "timestamp_iso": "2026-03-04T11:53:15",
+        "size_kb": 1353.3,
+        "encrypted": false
+      }
+    ]
   }
 }

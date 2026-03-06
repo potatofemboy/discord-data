@@ -8,9 +8,9 @@
   "blacklist": [],
   "watchlist": [],
   "heartbeat": {
-    "last_seen": "2026-03-06T23:35:58.517387+00:00",
+    "last_seen": "2026-03-06T23:36:59.593534+00:00",
     "clean_exit": false,
-    "ping_ms": 120.4
+    "ping_ms": 120.1
   },
   "downtime_log": [
     {
@@ -545,5 +545,183 @@
   },
   "monitor_log_channel": null,
   "nuke_whitelist": [],
-  "nuke_priority": []
+  "nuke_priority": [],
+  "guild_snapshot": {
+    "1392463823868530738": {
+      "id": "1392463823868530738",
+      "name": "\ud835\ude73\ud835\ude9b\ud835\ude8e\ud835\ude8a\ud835\ude96\ud835\ude8c\ud835\ude98\ud835\ude9b\ud835\ude8e \ud835\ude82\ud835\ude7c\ud835\ude7f",
+      "member_count": 287,
+      "owner_id": "1132992143837904906",
+      "channel_count": 53,
+      "role_count": 51,
+      "boost_level": 0,
+      "boost_count": 0,
+      "icon_url": "https://cdn.discordapp.com/icons/1392463823868530738/68e47794dc4e64b1c0f60f60f72a6ba4.png?size=1024",
+      "created_at": "2025-07-09T11:14:06.337000+00:00",
+      "description": ""
+    },
+    "1432006995086545039": {
+      "id": "1432006995086545039",
+      "name": "1000_ping_dude's test server",
+      "member_count": 3,
+      "owner_id": "1132992143837904906",
+      "channel_count": 6,
+      "role_count": 3,
+      "boost_level": 0,
+      "boost_count": 0,
+      "icon_url": null,
+      "created_at": "2025-10-26T14:04:33.032000+00:00",
+      "description": ""
+    },
+    "1460927669721108505": {
+      "id": "1460927669721108505",
+      "name": "\ud835\udde0\ud835\uddee\ud835\ude01\ud835\ude01'\ud835\ude00 \ud835\udde6\ud835\uddf8\ud835\ude06\ud835\uddf4\ud835\uddf2\ud835\uddfb",
+      "member_count": 84,
+      "owner_id": "1171646819038679070",
+      "channel_count": 31,
+      "role_count": 28,
+      "boost_level": 1,
+      "boost_count": 2,
+      "icon_url": "https://cdn.discordapp.com/icons/1460927669721108505/87996e648ea8c65a0ceb82cf5b3d17dc.png?size=1024",
+      "created_at": "2026-01-14T09:24:59.185000+00:00",
+      "description": ""
+    },
+    "1469597522920997039": {
+      "id": "1469597522920997039",
+      "name": "cool core smp season 2",
+      "member_count": 19,
+      "owner_id": "1425423027335598090",
+      "channel_count": 8,
+      "role_count": 5,
+      "boost_level": 0,
+      "boost_count": 0,
+      "icon_url": null,
+      "created_at": "2026-02-07T07:35:53.266000+00:00",
+      "description": ""
+    },
+    "1470939372185714791": {
+      "id": "1470939372185714791",
+      "name": "\u300c \u2726 Emerge SMP \u2726 \u300d",
+      "member_count": 4,
+      "owner_id": "847399527164936233",
+      "channel_count": 3,
+      "role_count": 5,
+      "boost_level": 0,
+      "boost_count": 0,
+      "icon_url": "https://cdn.discordapp.com/icons/1470939372185714791/e22f7362293ad7d5b1902c761d2045a8.png?size=1024",
+      "created_at": "2026-02-11T00:27:55.061000+00:00",
+      "description": ""
+    },
+    "1474003034853081141": {
+      "id": "1474003034853081141",
+      "name": "\u300c \u2726 Emerge SMP \u2726 \u300d",
+      "member_count": 2,
+      "owner_id": "1022288922413387807",
+      "channel_count": 2,
+      "role_count": 2,
+      "boost_level": 0,
+      "boost_count": 0,
+      "icon_url": "https://cdn.discordapp.com/icons/1474003034853081141/e22f7362293ad7d5b1902c761d2045a8.png?size=1024",
+      "created_at": "2026-02-19T11:21:49.161000+00:00",
+      "description": ""
+    },
+    "1474187676029816858": {
+      "id": "1474187676029816858",
+      "name": "Server Save/Load Support",
+      "member_count": 11,
+      "owner_id": "1425423027335598090",
+      "channel_count": 18,
+      "role_count": 12,
+      "boost_level": 0,
+      "boost_count": 0,
+      "icon_url": null,
+      "created_at": "2026-02-19T23:35:31.048000+00:00",
+      "description": ""
+    },
+    "1474403334344409191": {
+      "id": "1474403334344409191",
+      "name": "Discord Server Saves Storage",
+      "member_count": 2,
+      "owner_id": "1425423027335598090",
+      "channel_count": 5,
+      "role_count": 2,
+      "boost_level": 0,
+      "boost_count": 0,
+      "icon_url": null,
+      "created_at": "2026-02-20T13:52:27.997000+00:00",
+      "description": ""
+    },
+    "1475027327200264262": {
+      "id": "1475027327200264262",
+      "name": "\u300c \u22c6\u02da\u2606\u02d6\u00b0 \ud835\uddd8\ud835\udde0\ud835\uddd8\ud835\udde5\ud835\uddda\ud835\uddd8 \ud835\udde6\ud835\udde0\ud835\udde3 \u00b0\u02d6\u2606\u02da\u22c6 \u300d",
+      "member_count": 8,
+      "owner_id": "1425423027335598090",
+      "channel_count": 1,
+      "role_count": 8,
+      "boost_level": 0,
+      "boost_count": 0,
+      "icon_url": "https://cdn.discordapp.com/icons/1475027327200264262/e22f7362293ad7d5b1902c761d2045a8.png?size=1024",
+      "created_at": "2026-02-22T07:11:59.487000+00:00",
+      "description": ""
+    },
+    "1475935765438398545": {
+      "id": "1475935765438398545",
+      "name": "\u08ea\u02d6 \u05b4\u05b6\u05b8\ud800\udc14  \u0493\u1d00\u1d07\u0280\u028f\u1d1b\u029c s\u1d0d\u1d18  \u08ea\u02d6 \u05b4\u05b6\u05b8\ud800\udc14",
+      "member_count": 62,
+      "owner_id": "1248262062606516257",
+      "channel_count": 37,
+      "role_count": 49,
+      "boost_level": 0,
+      "boost_count": 0,
+      "icon_url": "https://cdn.discordapp.com/icons/1475935765438398545/a70908240a43e9f004ee15f71633cd2b.png?size=1024",
+      "created_at": "2026-02-24T19:21:48.041000+00:00",
+      "description": "\ud835\udc00 \ud835\udc21\ud835\udc22\ud835\udc1d\ud835\udc1d\ud835\udc1e\ud835\udc27 \ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc25\ud835\udc26 \ud835\udc30\ud835\udc21\ud835\udc1e\ud835\udc2b\ud835\udc1e \ud835\udc26\ud835\udc1a\ud835\udc20\ud835\udc22\ud835\udc1c \ud835\udc22\ud835\udc2c \ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc25 \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc2d\ud835\udc21\ud835\udc1e \ud835\udc1f\ud835\udc28\ud835\udc2b\ud835\udc1e\ud835\udc2c\ud835\udc2d \ud835\udc24\ud835\udc1e\ud835\udc1e\ud835\udc29\ud835\udc2c \ud835\udc22\ud835\udc2d\ud835\udc2c \ud835\udc2c\ud835\udc1e\ud835\udc1c\ud835\udc2b\ud835\udc1e\ud835\udc2d\ud835\udc2c. \ud835\udc04\ud835\udc31\ud835\udc29\ud835\udc25\ud835\udc28\ud835\udc2b\ud835\udc1e, \ud835\udc1b\ud835\udc2e\ud835\udc22\ud835\udc25\ud835\udc1d, \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc1f\ud835\udc22\ud835\udc27\ud835\udc1d \ud835\udc32\ud835\udc28\ud835\udc2e\ud835\udc2b \ud835\udc29\ud835\udc25\ud835\udc1a\ud835\udc1c\ud835\udc1e \ud835\udc1a\ud835\udc26\ud835\udc28\ud835\udc27\ud835\udc20 \ud835\udc2d\ud835\udc21\ud835\udc1e \ud835\udc1f\ud835\udc1a\ud835\udc1e \ud835\udc22\ud835\udc27 \ud835\udc2d\ud835\udc21\ud835\udc22\ud835\udc2c \ud835\udc26\ud835\udc32\ud835\udc2c\ud835\udc2d\ud835\udc22\ud835\udc1c \ud835\udc25\ud835\udc1a\ud835\udc27\ud835\udc1d"
+    },
+    "1476201983735238659": {
+      "id": "1476201983735238659",
+      "name": "new emerge thing",
+      "member_count": 3,
+      "owner_id": "1425423027335598090",
+      "channel_count": 4,
+      "role_count": 2,
+      "boost_level": 0,
+      "boost_count": 0,
+      "icon_url": null,
+      "created_at": "2026-02-25T12:59:39.429000+00:00",
+      "description": ""
+    },
+    "1476724976668250308": {
+      "id": "1476724976668250308",
+      "name": "\u300c \u22c6\u02da\u2606\u02d6\u00b0 \ud835\uddd8\ud835\udde0\ud835\uddd8\ud835\udde5\ud835\uddda\ud835\uddd8 \ud835\udde6\ud835\udde0\ud835\udde3 \u00b0\u02d6\u2606\u02da\u22c6 \u300d",
+      "member_count": 34,
+      "owner_id": "1022288922413387807",
+      "channel_count": 30,
+      "role_count": 41,
+      "boost_level": 0,
+      "boost_count": 0,
+      "icon_url": "https://cdn.discordapp.com/icons/1476724976668250308/e22f7362293ad7d5b1902c761d2045a8.png?size=1024",
+      "created_at": "2026-02-26T23:37:50.661000+00:00",
+      "description": ""
+    }
+  },
+  "user_cache": {
+    "844301485663584256": {
+      "id": "844301485663584256",
+      "name": "min1_waffles",
+      "display_name": "Min1 Waffles",
+      "avatar_url": "https://cdn.discordapp.com/avatars/844301485663584256/af6f66984934e45bf38d4eed7bbddd49.png?size=1024"
+    },
+    "1425423027335598090": {
+      "id": "1425423027335598090",
+      "name": "potatofemboy1",
+      "display_name": "potato",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1425423027335598090/7d77cf8e174285c44605efce4acb0e09.png?size=1024"
+    },
+    "1473979364222701700": {
+      "id": "1473979364222701700",
+      "name": "Server Save/Load",
+      "display_name": "Server Save/Load",
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png"
+    }
+  }
 }

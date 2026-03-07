@@ -10,9 +10,9 @@
   "blacklist": [],
   "watchlist": [],
   "heartbeat": {
-    "last_seen": "2026-03-07T09:19:07.474035+00:00",
+    "last_seen": "2026-03-07T09:20:09.563234+00:00",
     "clean_exit": false,
-    "ping_ms": 120.7
+    "ping_ms": 125.5
   },
   "downtime_log": [
     {
@@ -860,6 +860,39 @@
         ],
         [
           1476151162414698516,
+          "category"
+        ]
+      ]
+    },
+    "1460927669721108505": {
+      "interval_hours": 1.0,
+      "last_run_ts": 0,
+      "notify_channel_id": 1474354679302459547,
+      "ch_bl": [],
+      "save_mb": true,
+      "mb_wl": [],
+      "mb_bl": [],
+      "fmt_v": 5,
+      "encrypt_password": null,
+      "msg_targets": [
+        [
+          1474506036026019954,
+          "channel"
+        ],
+        [
+          1474506178741534791,
+          "channel"
+        ],
+        [
+          1474506358362603574,
+          "channel"
+        ],
+        [
+          1474506402121781269,
+          "channel"
+        ],
+        [
+          1461133019191447633,
           "category"
         ]
       ]

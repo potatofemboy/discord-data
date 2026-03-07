@@ -10,9 +10,9 @@
   "blacklist": [],
   "watchlist": [],
   "heartbeat": {
-    "last_seen": "2026-03-07T13:04:04.024097+00:00",
+    "last_seen": "2026-03-07T13:05:05.140534+00:00",
     "clean_exit": false,
-    "ping_ms": 120.9
+    "ping_ms": 130.0
   },
   "downtime_log": [
     {
@@ -950,7 +950,7 @@
     },
     "1460927669721108505": {
       "interval_hours": 1.0,
-      "last_run_ts": 1772885078.703517,
+      "last_run_ts": 1772888678.013372,
       "notify_channel_id": 1474354679302459547,
       "ch_bl": [],
       "save_mb": true,

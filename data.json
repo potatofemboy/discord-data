@@ -10,9 +10,9 @@
   "blacklist": [],
   "watchlist": [],
   "heartbeat": {
-    "last_seen": "2026-03-07T09:00:44.414787+00:00",
+    "last_seen": "2026-03-07T09:01:47.494401+00:00",
     "clean_exit": false,
-    "ping_ms": 126.6
+    "ping_ms": 121.9
   },
   "downtime_log": [
     {
@@ -761,13 +761,6 @@
     ],
     "1392463823868530738": [
       {
-        "thread_name": "backup_1392463823868530738_20260307_084433",
-        "timestamp_str": "2026-03-07 08:44:33 UTC",
-        "timestamp_iso": "2026-03-07T08:44:33",
-        "size_kb": null,
-        "encrypted": false
-      },
-      {
         "thread_name": "backup_1392463823868530738_20260307_083626",
         "timestamp_str": "2026-03-07 08:36:26 UTC",
         "timestamp_iso": "2026-03-07T08:36:26",
@@ -802,7 +795,8 @@
   "autobackup_schedules": {
     "1392463823868530738": {
       "interval_hours": 1.0,
-      "last_run_ts": 1772873074.9533415
+      "last_run_ts": 1772873074.9533415,
+      "notify_channel_id": 1474354679302459547
     }
   }
 }

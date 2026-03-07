@@ -10,9 +10,9 @@
   "blacklist": [],
   "watchlist": [],
   "heartbeat": {
-    "last_seen": "2026-03-07T11:07:22.485351+00:00",
+    "last_seen": "2026-03-07T11:08:23.576154+00:00",
     "clean_exit": false,
-    "ping_ms": 125.0
+    "ping_ms": 125.4
   },
   "downtime_log": [
     {
@@ -759,6 +759,13 @@
     ],
     "1476724976668250308": [
       {
+        "thread_name": "backup_1476724976668250308_20260307_110249",
+        "timestamp_str": "2026-03-07 11:02:49 UTC",
+        "timestamp_iso": "2026-03-07T11:02:49",
+        "size_kb": 1340.3,
+        "encrypted": false
+      },
+      {
         "thread_name": "backup_1476724976668250308_20260307_100254",
         "timestamp_str": "2026-03-07 10:02:54 UTC",
         "timestamp_iso": "2026-03-07T10:02:54",
@@ -782,6 +789,13 @@
     ],
     "1392463823868530738": [
       {
+        "thread_name": "backup_1392463823868530738_20260307_110254",
+        "timestamp_str": "2026-03-07 11:02:54 UTC",
+        "timestamp_iso": "2026-03-07T11:02:54",
+        "size_kb": 1743.6,
+        "encrypted": false
+      },
+      {
         "thread_name": "backup_1392463823868530738_20260307_100250",
         "timestamp_str": "2026-03-07 10:02:50 UTC",
         "timestamp_iso": "2026-03-07T10:02:50",
@@ -804,6 +818,13 @@
       }
     ],
     "1460927669721108505": [
+      {
+        "thread_name": "backup_1460927669721108505_20260307_110434",
+        "timestamp_str": "2026-03-07 11:04:34 UTC",
+        "timestamp_iso": "2026-03-07T11:04:34",
+        "size_kb": 1424.1,
+        "encrypted": false
+      },
       {
         "thread_name": "backup_1460927669721108505_20260307_100436",
         "timestamp_str": "2026-03-07 10:04:36 UTC",

@@ -10,9 +10,9 @@
   "blacklist": [],
   "watchlist": [],
   "heartbeat": {
-    "last_seen": "2026-03-07T15:07:47.675909+00:00",
+    "last_seen": "2026-03-07T15:08:48.773444+00:00",
     "clean_exit": false,
-    "ping_ms": 120.0
+    "ping_ms": 121.2
   },
   "downtime_log": [
     {
@@ -838,6 +838,13 @@
       }
     ],
     "1460927669721108505": [
+      {
+        "thread_name": "backup_1460927669721108505_20260307_150436",
+        "timestamp_str": "2026-03-07 15:04:36 UTC",
+        "timestamp_iso": "2026-03-07T15:04:36",
+        "size_kb": 1424.1,
+        "encrypted": false
+      },
       {
         "thread_name": "backup_1460927669721108505_20260307_140442",
         "timestamp_str": "2026-03-07 14:04:42 UTC",

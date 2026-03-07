@@ -10,9 +10,9 @@
   "blacklist": [],
   "watchlist": [],
   "heartbeat": {
-    "last_seen": "2026-03-07T09:11:42.697487+00:00",
+    "last_seen": "2026-03-07T09:12:44.783039+00:00",
     "clean_exit": false,
-    "ping_ms": 122.0
+    "ping_ms": 120.4
   },
   "downtime_log": [
     {
@@ -811,6 +811,23 @@
         [
           1408319376892887070,
           "channel"
+        ]
+      ]
+    },
+    "1476724976668250308": {
+      "interval_hours": 1.0,
+      "last_run_ts": 0,
+      "notify_channel_id": 1474354679302459547,
+      "ch_bl": [],
+      "save_mb": true,
+      "mb_wl": [],
+      "mb_bl": [],
+      "fmt_v": 5,
+      "encrypt_password": null,
+      "msg_targets": [
+        [
+          1476724977075093631,
+          "category"
         ]
       ]
     }

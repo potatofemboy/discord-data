@@ -10,9 +10,9 @@
   "blacklist": [],
   "watchlist": [],
   "heartbeat": {
-    "last_seen": "2026-03-07T08:38:37.733673+00:00",
+    "last_seen": "2026-03-07T08:39:38.807591+00:00",
     "clean_exit": false,
-    "ping_ms": 120.1
+    "ping_ms": 121.7
   },
   "downtime_log": [
     {
@@ -729,6 +729,13 @@
   "backup_inventory": {
     "1475935765438398545": [
       {
+        "thread_name": "backup_1475935765438398545_20260307_083539",
+        "timestamp_str": "2026-03-07 08:35:39 UTC",
+        "timestamp_iso": "2026-03-07T08:35:39",
+        "size_kb": 1320.2,
+        "encrypted": false
+      },
+      {
         "thread_name": "backup_1475935765438398545_20260304_115102",
         "timestamp_str": "2026-03-04 11:51:02 UTC",
         "timestamp_iso": "2026-03-04T11:51:02",
@@ -737,6 +744,13 @@
       }
     ],
     "1476724976668250308": [
+      {
+        "thread_name": "backup_1476724976668250308_20260307_083622",
+        "timestamp_str": "2026-03-07 08:36:22 UTC",
+        "timestamp_iso": "2026-03-07T08:36:22",
+        "size_kb": 1340.3,
+        "encrypted": false
+      },
       {
         "thread_name": "backup_1476724976668250308_20260304_115103",
         "timestamp_str": "2026-03-04 11:51:03 UTC",
@@ -747,6 +761,13 @@
     ],
     "1392463823868530738": [
       {
+        "thread_name": "backup_1392463823868530738_20260307_083626",
+        "timestamp_str": "2026-03-07 08:36:26 UTC",
+        "timestamp_iso": "2026-03-07T08:36:26",
+        "size_kb": 1743.6,
+        "encrypted": false
+      },
+      {
         "thread_name": "backup_1392463823868530738_20260304_115148",
         "timestamp_str": "2026-03-04 11:51:48 UTC",
         "timestamp_iso": "2026-03-04T11:51:48",
@@ -755,6 +776,13 @@
       }
     ],
     "1460927669721108505": [
+      {
+        "thread_name": "backup_1460927669721108505_20260307_083809",
+        "timestamp_str": "2026-03-07 08:38:09 UTC",
+        "timestamp_iso": "2026-03-07T08:38:09",
+        "size_kb": 1424.1,
+        "encrypted": false
+      },
       {
         "thread_name": "backup_1460927669721108505_20260304_115315",
         "timestamp_str": "2026-03-04 11:53:15 UTC",

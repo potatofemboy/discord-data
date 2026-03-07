@@ -10,9 +10,9 @@
   "blacklist": [],
   "watchlist": [],
   "heartbeat": {
-    "last_seen": "2026-03-07T10:51:51.664959+00:00",
+    "last_seen": "2026-03-07T10:52:52.757391+00:00",
     "clean_exit": false,
-    "ping_ms": 120.0
+    "ping_ms": 120.1
   },
   "downtime_log": [
     {
@@ -670,7 +670,7 @@
       "id": "1475935765438398545",
       "name": "\u08ea\u02d6 \u05b4\u05b6\u05b8\ud800\udc14  \u0493\u1d00\u1d07\u0280\u028f\u1d1b\u029c s\u1d0d\u1d18  \u08ea\u02d6 \u05b4\u05b6\u05b8\ud800\udc14",
       "member_count": 62,
-      "owner_id": "1248262062606516257",
+      "owner_id": "1172786126583509007",
       "channel_count": 37,
       "role_count": 49,
       "boost_level": 0,

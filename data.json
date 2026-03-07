@@ -10,9 +10,9 @@
   "blacklist": [],
   "watchlist": [],
   "heartbeat": {
-    "last_seen": "2026-03-07T08:56:29.844618+00:00",
+    "last_seen": "2026-03-07T08:57:31.944676+00:00",
     "clean_exit": false,
-    "ping_ms": 119.5
+    "ping_ms": 123.2
   },
   "downtime_log": [
     {
@@ -764,7 +764,7 @@
         "thread_name": "backup_1392463823868530738_20260307_084433",
         "timestamp_str": "2026-03-07 08:44:33 UTC",
         "timestamp_iso": "2026-03-07T08:44:33",
-        "size_kb": 787.7,
+        "size_kb": null,
         "encrypted": false
       },
       {

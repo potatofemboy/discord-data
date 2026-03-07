@@ -10,9 +10,9 @@
   "blacklist": [],
   "watchlist": [],
   "heartbeat": {
-    "last_seen": "2026-03-07T12:03:47.074062+00:00",
+    "last_seen": "2026-03-07T12:04:47.209920+00:00",
     "clean_exit": false,
-    "ping_ms": 149.4
+    "ping_ms": 120.1
   },
   "downtime_log": [
     {
@@ -729,6 +729,13 @@
   "backup_inventory": {
     "1475935765438398545": [
       {
+        "thread_name": "backup_1475935765438398545_20260307_120202",
+        "timestamp_str": "2026-03-07 12:02:02 UTC",
+        "timestamp_iso": "2026-03-07T12:02:02",
+        "size_kb": 1382.6,
+        "encrypted": false
+      },
+      {
         "thread_name": "backup_1475935765438398545_20260307_110159",
         "timestamp_str": "2026-03-07 11:01:59 UTC",
         "timestamp_iso": "2026-03-07T11:01:59",
@@ -759,6 +766,13 @@
     ],
     "1476724976668250308": [
       {
+        "thread_name": "backup_1476724976668250308_20260307_120249",
+        "timestamp_str": "2026-03-07 12:02:49 UTC",
+        "timestamp_iso": "2026-03-07T12:02:49",
+        "size_kb": 1340.3,
+        "encrypted": false
+      },
+      {
         "thread_name": "backup_1476724976668250308_20260307_110249",
         "timestamp_str": "2026-03-07 11:02:49 UTC",
         "timestamp_iso": "2026-03-07T11:02:49",
@@ -788,6 +802,13 @@
       }
     ],
     "1392463823868530738": [
+      {
+        "thread_name": "backup_1392463823868530738_20260307_120254",
+        "timestamp_str": "2026-03-07 12:02:54 UTC",
+        "timestamp_iso": "2026-03-07T12:02:54",
+        "size_kb": 1743.6,
+        "encrypted": false
+      },
       {
         "thread_name": "backup_1392463823868530738_20260307_110254",
         "timestamp_str": "2026-03-07 11:02:54 UTC",
@@ -922,7 +943,7 @@
     },
     "1460927669721108505": {
       "interval_hours": 1.0,
-      "last_run_ts": 1772881476.356566,
+      "last_run_ts": 1772885078.703517,
       "notify_channel_id": 1474354679302459547,
       "ch_bl": [],
       "save_mb": true,

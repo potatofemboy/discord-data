@@ -10,9 +10,9 @@
   "blacklist": [],
   "watchlist": [],
   "heartbeat": {
-    "last_seen": "2026-03-07T12:09:53.721339+00:00",
+    "last_seen": "2026-03-07T12:10:55.806357+00:00",
     "clean_exit": false,
-    "ping_ms": 122.2
+    "ping_ms": 120.2
   },
   "downtime_log": [
     {
